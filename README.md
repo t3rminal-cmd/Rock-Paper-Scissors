@@ -8,3 +8,4 @@
 - Great for practicing & understanding python functions.
 - On going project, feel free to update and add.
 
+![Screenshots](preview.png)
